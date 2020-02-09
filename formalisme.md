@@ -15,7 +15,13 @@
 * [Make a Pull Request](http://makeapullrequest.com/)
 * [A Code of Conduct for Open Source Projects](https://www.contributor-covenant.org/)
 * [Wrangling Web Contributions: How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/#introduction)
+
 ## Le Makefile
+
+* [Self-Documented Makefile](https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
+* [The Language Agnostic, All-Purpose, Incredible, Makefile](https://blog.mindlessness.life/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html)
+* [What is a Makefile and how does it work?](https://opensource.com/article/18/8/what-how-makefile)
+* [Your Makefiles are wrong](https://tech.davis-hansson.com/p/make/)
 
 ## Les tests
 
