@@ -19,19 +19,22 @@ Il y'a certes de la technique, et ce guide ne l'abordera pas, mais aussi tout un
   * [Git](ba-b-a.md#git)
   * [Faire des Pull Requests (PR)](ba-b-a.md#proposer-une-pull-request-pr)
   * [Je fais quoi maintenant ?](ba-b-a.md#je-me-sens-plus-à-laise-avec-git-je-fais-quoi-maintenant)
-* Du formalisme
-  * Le readme
-  * La licence
-  * Les tests
-  * Le code styling
-  * La documentation
-  * C'est quoi une bonne Pull Request ?
-  * C'est quoi une bonne Code Review ?
-* Et maintenant ?
-  * Les projets en cours
-  * La liste des idées de projets
-  * Proposer un nouveau projet
-  * Créer votre nouveau projet
+* [Du formalisme](formalisme.md)
+  * [Le readme](formalisme.md#le-readme)
+  * [La licence](formalisme.md#la-licence)
+  * [Le guide de contribution](formalisme.md#le-guide-de-contribution)
+  * [Le Makefile](formalisme.md#le-makefile)
+  * [Les tests](formalisme.md#les-tests)
+  * [Le style de code](formalisme.md#le-style-de-code)
+  * [La documentation](formalisme.md#la-documentation)
+  * [C'est quoi une bonne Pull Request ?](formalisme.md#cest-quoi-une-bonne-pull-request-)
+  * [C'est quoi une bonne Code Review ?](formalisme.md#cest-quoi-une-bonne-code-review-)
+* [Et maintenant ?](et-maintenant.md)
+  * [Les projets en cours](et-maintenant.md#les-projets-en-cours)
+  * [La liste des idées de projets](et-maintenant.md#la-liste-des-idées-de-projets)
+  * [Proposer un nouveau projet](et-maintenant.md#proposer-un-nouveau-projet)
+  * [Créer votre nouveau projet](et-maintenant.md#créer-votre-nouveau-projet)
+  * [Trouver de l'aide](et-maintenant.md#trouver-de-laide)
 
 ## Licence
 
