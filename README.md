@@ -10,7 +10,7 @@ Comme nous l'indiquons dans notre [code de conduite](CODE_OF_CONDUCT.md) :
 
 Et ce guide a justement pour objectif de contribuer à offrir un environnement amicale. Parce qu'en effet, cela peut paraître un peu intimidant de participer à un projet open-source pour une première fois.
 
-Il y'a certes de la technique, et ce guide ne l'abordera pas, mais aussi tout un tas formalisme qu'on ne maîtrise pas forcement au début. Ce formalisme n'est pas là pour nous embêter, mais au contraire à assurer une bonne collaboration entre tous les participants.
+Il y'a certes de la technique, et ce guide ne l'abordera pas, mais aussi tout un tas formalisme qu'on ne maîtrise pas forcément au début. Ce formalisme n'est pas là pour nous embêter, mais au contraire à assurer une bonne collaboration entre tous les participants.
 
 ## Sommaire
 
