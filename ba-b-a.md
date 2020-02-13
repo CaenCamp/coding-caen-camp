@@ -2,8 +2,8 @@
 
 Dans le cadre des CaenCamp.s, les projets vont très largement consister en la mise en place de projets informatiques liés à l'animation du collectif des développeurs de Caen. Nous allons travailler à plusieurs et donc partager du code. Et pour cela, nous allons partager ce que l'on nomme une base de code versionnée. L'outil de base pour faire cela, c'est un [logiciel de gestion de version](https://fr.wikipedia.org/wiki/Logiciel_de_gestion_de_versions) que l'on appel Git *(1)*. Et très souvent, la première rencontre que l'on fait avec une base de code versionnée sous Git, c'est Github *(2)*. La preuve, vous êtes ici !
 
-*1: en vrai, il existe beaucoup d'autre solutions, mais dans la cadre des CaenCamp.s nous utilisons Git.*    
-*2: tout comme il existe d'autre solutions que Git, il existe d'autre sites permettant de travailler sur une base versionnée de code, comme [GitLab](https://gitlab.com) ou [Bitbucket](https://bitbucket.org
+*1: en vrai, il existe beaucoup d'autres solutions, mais dans la cadre des CaenCamp.s nous utilisons Git.*    
+*2: tout comme il existe d'autres solutions que Git, il existe d'autres sites permettant de travailler sur une base versionnée de code, comme [GitLab](https://gitlab.com) ou [Bitbucket](https://bitbucket.org
 ). Mais pour le moment, nous utilisons Github.*
 
 ## Github
