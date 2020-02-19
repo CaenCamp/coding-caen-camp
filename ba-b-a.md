@@ -31,6 +31,7 @@ Ce guide n'a pas vocation à être un tutoriel Git, mais il existe beaucoup de b
 * [Git - Petit Guide (fr)](https://rogerdudler.github.io/git-guide/index.fr.html)
 * [Le guide Github (en)](https://guides.github.com/introduction/git-handbook/)
 * [Git from Beginner to Advanced (en)](https://www.madebymike.com.au/writing/how-to-git/)
+* [Git Explorer](https://gitexplorer.com/)
 
 ### Git aux CaenCamp.s
 
